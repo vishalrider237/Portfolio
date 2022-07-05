@@ -20,9 +20,9 @@ const About =()=>{
         </p>
         <p className="a-desc">
         I am dedicated ,hard worker with strong problem solving skill.
-        I am highly interested in software development. I am pursuing bachelor degree from Nit Warangal currently in 3rd year. 
+        I am highly interested in software development. I am pursuing bachelor degree from Nit Warangal currently in final year. 
         I am technology enthusiastic. I am always eager to learn new technologies . 
-        I have following skills like Java,Python,Oops,Linux,DBMS and having a strong fundamental at DS and Algo
+        I have following skills like Java(Proefficent), Python for data science, Oops, Linux, DBMS and having a strong fundamental at DS and Algo
         (Solved more than 500+ Problems on both GFG and Leetcode and 5⭐ at Hackerrank) . 
         </p>
          <div className="a-award">
