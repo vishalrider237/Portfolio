@@ -3,7 +3,7 @@ import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
 import Linkedin from "../../img/linkedin.png";
-
+import Github from "../../img/github.png";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { useContext, useState } from "react";
@@ -53,6 +53,13 @@ const Contact =()=>{
                              alt=""
                              className="c-icon"></img>
                              vill+pos-Raghunathput dist-Buxar Bihar
+                      </div>
+                      <div className="c-info-item">
+                      <img
+                             src={Github}
+                             alt=""
+                             className="c-icon" ></img>
+                            <a href="https://github.com/vishalrider237" className="link">GitHub</a>
                       </div>
                       <div className="c-info-item">
                       <img
