@@ -2,6 +2,7 @@ import "./contact.css";
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
+import Linkedin from "../../img/linkedin.png";
 
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
@@ -37,7 +38,7 @@ const Contact =()=>{
                              src={Phone}
                              alt=""
                              className="c-icon"></img>
-                             +91 8000267469
+                             +91-8000267469
                       </div>
                       <div className="c-info-item">
                              <img 
@@ -53,7 +54,13 @@ const Contact =()=>{
                              className="c-icon"></img>
                              vill+pos-Raghunathput dist-Buxar Bihar
                       </div>
-                      
+                      <div className="c-info-item">
+                      <img
+                             src={Linkedin}
+                             alt=""
+                             className="c-icon" ></img>
+                            <a href="https://www.linkedin.com/in/vishal-pandey-03041b1b7/" className="link">Connect With Me</a>
+                      </div>
                   </div>
               </div>
               <div className="c-right">

@@ -16,6 +16,13 @@
 .c-left{
     flex: 1;
 }
+.link{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    font-size: 30px;
+    color: blueviolet;
+}
 .c-right{
     flex: 1;
     flex-direction: column;

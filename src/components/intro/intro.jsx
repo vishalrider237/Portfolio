@@ -9,33 +9,34 @@ const Intro = () =>{
               <div className="i-title">
                   <div className="i-title-wrapper">
                       <div className="i-title-item">Web Developer</div>
-                      <div className="i-title-item">Programmer</div>
                       <div className="i-title-item">Problem Solver</div>
                   </div>
               </div>
               <p className="i-desc">
-                  I have worked on varoius projects like -- <br/>
-               1- Online_pharamacy database: :First I have designed ER diagram for my database,and then converted this ER model
-                  to relational model ,implemented this relational into MYSQL , used python language 
-                  for database connectivity and did CRUD operations on each and table using python.
-                  Tools - MYSQL Commandline prompt ,Pycharm.
-                    <br/>
-               2- Login_Register_App : : This is login and register app in which user register with their name,e-mail,password and
-                   and re-enter password and after registering ,user can login with their  same e-mail and password.. alos deployed 
-                   frontend on netflify and backend on heroku.
+                 <h2 className="h">My Projects</h2>
+               <h4 className="h">1- Login_Register_App</h4>This is login and register app in which user register with their name,e-mail,password and re-enter pass
+                   word and after registering ,user can login with their  same e-mail and password.Implemented REST APIs for retrieving authentication status  .
+                   Worked on CI/CD using heroku on backend , netlify on frontend and version controlling using git.<br/>
                       Technology used-<br/>
-                         Frontend= HTML , CSS 
-                         library- ReactJs , NodeJs
-                          framework- ExpressJs
-                          Database=MongoDb          
+                         Frontend- HTML , CSS ,ReactJs<br/>
+                          Backend- NodeJs, ExpressJs, MongoDb          
                         <br/>
-                3- Portfolio : : I have created this amazing website and added various features like dark moode
-                   button and added my all amazing achievments.
-                   Technology used -HTML,CSS ,ReactJs  used Emailjs online server for backend
-                   and deployed this project in heroko server.
-                   Tools - VScode   
-
-                  
+                        <div>
+                          <a href="https://login-register-mern12.netlify.app/" className="code">Live Site</a>
+                        </div>
+                <h4 className="h">2- Netflix Clone</h4>This website is fully responsive,and this website is clone of netflix app using ReactJs.
+                   deployed on netlify cloud server.<br/>
+                   Tech used-- HTML, SCSS, ReactJs  <br/>
+                   <div>
+                     <a href="https://netflix-clone873.netlify.app/" className="code">Live Site</a>
+                   </div>
+                  <h4 className="h">3- Ecommerce Shoes Store Website</h4>This website is fully responsive,in which user can buy their favourite shoes with differrent colors,
+                  and size.Deployed on netlify cloud server.<br/>
+                   Technology Used-
+                   HTML ,  CSSS  , JavaScript
+                <div>
+                  <a href="https://ecommerce-shoes-store.netlify.app/ " className="code" >Live Site</a>
+                </div>  
               </p>
           </div>
           <svg
