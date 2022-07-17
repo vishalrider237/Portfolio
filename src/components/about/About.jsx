@@ -25,7 +25,7 @@ const About =()=>{
         I have following skills like Java(Proefficent), Python for data science, Oops, Linux, DBMS and having a strong fundamental at DS and Algo
         (Solved more than 700+ Problems on both GFG and Leetcode and 5⭐ at Hackerrank) . 
         <div>
-            <a href=" https://auth.geeksforgeeks.org/user/vishalpandey10022000/practice/ " className="code">My GFG Account</a>
+            <a href=" https://auth.geeksforgeeks.org/user/vishalrider98/practice " className="code">My GFG Account</a>
             <a href="https://leetcode.com/pandey_931922/" className="code">My Leetcode Account</a>
         </div>
         </p>

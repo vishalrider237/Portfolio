@@ -52,7 +52,7 @@ const Contact =()=>{
                              src={Address}
                              alt=""
                              className="c-icon"></img>
-                             vill+pos-Raghunathput dist-Buxar Bihar
+                             vill+post-Raghunathpur dist-Buxar Bihar pin-802134
                       </div>
                       <div className="c-info-item">
                       <img
