@@ -14,16 +14,13 @@ const Intro = () =>{
               </div>
               <p className="i-desc">
                  <h2 className="h">My Projects</h2>
-               <h4 className="h">1- Login_Register_App</h4>This is login and register app in which user register with their name,e-mail,password and re-enter pass
-                   word and after registering ,user can login with their  same e-mail and password.Implemented REST APIs for retrieving authentication status  .
-                   Worked on CI/CD using heroku on backend , netlify on frontend and version controlling using git.<br/>
+               <h4 className="h">1- Gym Fitness Website</h4>This website is fully responsive and real time with cool user interface.<br/>
                       Technology used-
-                          HTML , CSS , ReactJs, 
-                           NodeJs, ExpressJs, MongoDb          
+                          HTML , CSS , ReactJs,          
                         <br/>
                         <div>
-                          <a href="https://login-register-mern12.netlify.app/" className="code">Live Site</a>
-                        </div>
+                          <a href="https://fitclub-af9.pages.dev/" className="code">Live Site</a>
+                  </div>
                 <h4 className="h">2- Student Management System</h4>This website is fully responsive,based on CRUD Operation using Nodejs.<br/>
                    Tech used- EJS, CSS, JavaScript, NodeJs, ExpressJs, MongoDb  <br/>
                    <div>
