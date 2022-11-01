@@ -14,18 +14,20 @@ const Intro = () =>{
               </div>
               <p className="i-desc">
                  <h2 className="h">My Projects</h2>
-               <h4 className="h">1- Gym Fitness Website</h4>This website is fully responsive and real time with cool user interface.<br/>
+            <h4 className="h">1- Ecommerce Full Stack Website</h4>This website is fully real time responsive in which users can select products
+                   of different styles and purchase them.Used Stripe for payment gateway Integration and Sanity for product upload action.<br/>
+                   Tech used- CSS, ReactJs, NextJs <br/>
+                   <div>
+                     <a href="https://ecommerce-full-stack-flax.vercel.app/" className="code">Check Code</a>
+                   </div>
+               <h4 className="h">2- Gym Fitness Website</h4>This website is fully responsive and real time with cool user interface.<br/>
                       Technology used-
                           HTML , CSS , ReactJs,          
                         <br/>
                         <div>
                           <a href="https://fitclub-af9.pages.dev/" className="code">Live Site</a>
                   </div>
-                <h4 className="h">2- Student Management System</h4>This website is fully responsive,based on CRUD Operation using Nodejs.<br/>
-                   Tech used- EJS, CSS, JavaScript, NodeJs, ExpressJs, MongoDb  <br/>
-                   <div>
-                     <a href="https://github.com/vishalrider237/Student-Managment-System" className="code">Check Code</a>
-                   </div>
+               
                   <h4 className="h">3- Ecommerce Shoes Store Website</h4>This website is fully responsive and real time,in which user can buy their favourite shoes with differrent colors,
                   and size.<br/>
                    Technology Used-
