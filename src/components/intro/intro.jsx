@@ -28,7 +28,7 @@ const Intro = () =>{
                           <a href="https://fitclub-af9.pages.dev/" className="code">Live Site</a>
                   </div>
                
-                  <h4 className="h">3- Ecommerce Shoes Store Website</h4>This website is fully responsive and real time,in which user can buy their favourite shoes with differrent colors,
+                  <h4 className="h">3- Shoes Store Website</h4>This website is fully responsive and real time,in which user can buy their favourite shoes with differrent colors,
                   and size.<br/>
                    Technology Used-
                    HTML ,  CSS  , JavaScript, Nodejs, ExpressJs, MongoDb
