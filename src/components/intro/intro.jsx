@@ -25,7 +25,7 @@ const Intro = () =>{
                           HTML , CSS , ReactJs,          
                         <br/>
                         <div>
-                          <a href="https://fitclub-af9.pages.dev/" className="code">Live Site</a>
+                          <a href="https://gym-website-01t.pages.dev/" className="code">Live Site</a>
                   </div>
                
                   <h4 className="h">3- Shoes Store Website</h4>This website is fully responsive and real time,in which user can buy their favourite shoes with differrent colors,
