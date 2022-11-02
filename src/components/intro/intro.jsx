@@ -18,7 +18,7 @@ const Intro = () =>{
                    of different styles and purchase them.Used Stripe for payment gateway Integration and Sanity for product upload action.<br/>
                    Tech used- CSS, ReactJs, NextJs <br/>
                    <div>
-                     <a href="https://ecommerce-full-stack-flax.vercel.app/" className="code">Check Code</a>
+                     <a href="https://ecommerce-full-stack-flax.vercel.app/" className="code">Live Site</a>
                    </div>
                <h4 className="h">2- Gym Fitness Website</h4>This website is fully responsive and real time with cool user interface.<br/>
                       Technology used-
